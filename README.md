@@ -34,7 +34,6 @@ The model is split into logically flowing modules, designed to take raw financia
 ## Technical Details & Best Practices
 To ensure this model is professional-grade, I implemented strict financial modeling conventions:
 
-* **Python-Generated:** Built from the ground up using `openpyxl`.
 * **Transparent Logic:** Column `B` in every analysis sheet contains a plain-text description of the formula used, ensuring complete transparency and easy auditing.
 * **Standardized Color-Coding:** 
   * 🔵 **Blue text:** Hardcoded input values (raw data).
