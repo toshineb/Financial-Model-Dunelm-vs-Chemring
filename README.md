@@ -5,7 +5,7 @@
 ## The Story Behind the Model
 What happens when you pit a capital-light retail giant against an asset-intensive defense contractor? 
 
-I built this comprehensive financial model to answer that exact question. This project isn't just a data dump; it's a fully automated, formula-driven Excel architecture generated using Python's `openpyxl` library. It covers 5-6 years of historical financial data (Dunelm FY19–FY24 and Chemring FY20–FY25) to showcase how fundamentally different business models look under the hood of rigorous financial analysis.
+I built this comprehensive financial model to answer that exact question. This project isn't just a data dump; it's a fully automated, formula-driven Excel architecture generated using excel. It covers 5-6 years of historical financial data (Dunelm FY19–FY24 and Chemring FY20–FY25) to showcase how fundamentally different business models look under the hood of rigorous financial analysis.
 
 Whether you're looking at profitability, liquidity, or market valuation, this model is designed to be fully transparent, strictly color-coded, and audit-ready.
 
