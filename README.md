@@ -45,7 +45,6 @@ To ensure this model is professional-grade, I implemented strict financial model
 ## How to Explore
 1. Clone this repository.
 2. Open the `.xlsx` file in Excel to explore the interactive, formula-driven sheets.
-3. Review the underlying Python scripts (if included) to see how the data pipeline and Excel formatting were automated.
 
 ---
 *Built as a work sample to demonstrate advanced financial modeling, data structuring.*
